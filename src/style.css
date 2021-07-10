@@ -1,10 +1,10 @@
 a {
   text-decoration: none;
-  color: black;
 }
 
 a:hover {
   cursor: pointer;
+  color: black;
 }
 
 h1 {
@@ -47,6 +47,10 @@ p {
 
 .btn-forecast {
   background-color: turquoise;
+}
+
+#source-code {
+  padding: 0px 0px 0px 80px;
 }
 
 .weekdays {
